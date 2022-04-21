@@ -20,8 +20,8 @@ status-website:
   introMessage: "Esta es la pagina de estado de servicios en tiempo real para **NetaMx** "
   theme: "light"
   navbar:
-    - title: Status
-      href: /
+    - title: Production Services
+      href: https://status.ops.neta.mx/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
