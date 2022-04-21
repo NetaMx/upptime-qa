@@ -3,6 +3,8 @@ owner: "NetaMx"
 repo: "upptime-qa"
 
 sites:
+  - name: WebSite-QA
+    url: http://18.116.153.81:5000/
   - name: CoreApi-QA
     url: https://coreapi-qa.netamx.app:3000/api-docs/#
 
