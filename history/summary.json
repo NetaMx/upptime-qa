@@ -1,5 +1,23 @@
 [
   {
+    "name": "WebSite-QA",
+    "url": "http://18.116.153.81:5000/",
+    "icon": "https://favicons.githubusercontent.com/18.116.153.81",
+    "slug": "web-site-qa",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 41,
+    "timeDay": 41,
+    "timeWeek": 41,
+    "timeMonth": 41,
+    "timeYear": 41,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "CoreApi-QA",
     "url": "https://coreapi-qa.netamx.app:3000/api-docs/#",
     "icon": "https://favicons.githubusercontent.com/coreapi-qa.netamx.app",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 201,
-    "timeDay": 201,
-    "timeWeek": 201,
-    "timeMonth": 201,
-    "timeYear": 201,
+    "time": 186,
+    "timeDay": 186,
+    "timeWeek": 186,
+    "timeMonth": 186,
+    "timeYear": 186,
     "dailyMinutesDown": {}
   }
 ]
