@@ -4,18 +4,20 @@
     "url": "http://18.116.153.81:5000/",
     "icon": "https://favicons.githubusercontent.com/18.116.153.81",
     "slug": "web-site-qa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 63,
-    "timeDay": 99,
-    "timeWeek": 63,
-    "timeMonth": 63,
-    "timeYear": 63,
-    "dailyMinutesDown": {}
+    "time": 72,
+    "timeDay": 120,
+    "timeWeek": 72,
+    "timeMonth": 72,
+    "timeYear": 72,
+    "dailyMinutesDown": {
+      "2022-04-28": 0
+    }
   },
   {
     "name": "CoreApi-QA",
