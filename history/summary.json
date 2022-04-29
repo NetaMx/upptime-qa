@@ -4,7 +4,7 @@
     "url": "http://18.116.153.81:5000/",
     "icon": "https://favicons.githubusercontent.com/18.116.153.81",
     "slug": "web-site-qa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 78,
     "timeMonth": 70,
     "timeYear": 70,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-29": 0
+    }
   },
   {
     "name": "CoreApi-QA",
