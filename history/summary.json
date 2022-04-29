@@ -4,19 +4,19 @@
     "url": "http://18.116.153.81:5000/",
     "icon": "https://favicons.githubusercontent.com/18.116.153.81",
     "slug": "web-site-qa",
-    "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "97.21%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
-    "time": 71,
-    "timeDay": 82,
-    "timeWeek": 80,
-    "timeMonth": 71,
-    "timeYear": 71,
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "96.52%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
+    "time": 70,
+    "timeDay": 78,
+    "timeWeek": 78,
+    "timeMonth": 70,
+    "timeYear": 70,
     "dailyMinutesDown": {
-      "2022-04-29": 40
+      "2022-04-29": 50
     }
   },
   {
