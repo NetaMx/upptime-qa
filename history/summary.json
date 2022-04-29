@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/18.116.153.81",
     "slug": "web-site-qa",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 72,
-    "timeDay": 100,
-    "timeWeek": 75,
-    "timeMonth": 72,
-    "timeYear": 72,
-    "dailyMinutesDown": {
-      "2022-04-28": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 70,
+    "timeDay": 88,
+    "timeWeek": 78,
+    "timeMonth": 70,
+    "timeYear": 70,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CoreApi-QA",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 240,
-    "timeWeek": 233,
-    "timeMonth": 224,
-    "timeYear": 224,
+    "time": 222,
+    "timeDay": 200,
+    "timeWeek": 244,
+    "timeMonth": 222,
+    "timeYear": 222,
     "dailyMinutesDown": {}
   }
 ]
