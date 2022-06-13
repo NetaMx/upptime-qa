@@ -1,18 +1,65 @@
 ---
 owner: "NetaMx"
-repo: "upptime-qa"
+repo: "upptime"
 
 sites:
-  - name: WebSite-QA
-    url: http://18.116.153.81:5000/
-  - name: CoreApi-QA
-    url: https://coreapi-qa.netamx.app:3000/api-docs/#
+  - name: "NetaMx Site"
+    url: $SECRET_SITE_NETA
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+  - name: "Mi Tienda"
+    url: $SECRET_SITE_MITIENDA
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: "Data Analitycs"
+    url: $SECRET_SITE_REDASH
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+  - name: "Autenticacion"
+    url: $SECRET_SITE_OPS_SECURITY
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+  - name: "Facturacion"
+    url: $SECRET_SITE_OPS_INVOICE
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+  - name: "Entregas"
+    url: $SECRET_SITE_OPS_DELIVERY
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+  - name: "Ordenes"
+    url: $SECRET_SITE_OPS_ORDER
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+  - name: "Ordenes V2"
+    url: $SECRET_SITE_RENGOKU
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+  - name: "Gestion de Tiendas"
+    url: $SECRET_SITE_OPS_STORE
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+  - name: "Core api"
+    url: $SECRET_SITE_CORE_API
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+
+assignees:
+  - "adrianhorizon"
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: "qa.status.ops.neta.mx"
-  #baseUrl: /upptime-qa
   logoUrl: "https://raw.githubusercontent.com/NetaMx/upptime/master/assets/Logo_Neta_Close.png"
   favicon: "https://raw.githubusercontent.com/NetaMx/upptime/master/assets/Logo_Neta_Close.png"
   name: ""
@@ -20,8 +67,25 @@ status-website:
   introMessage: "Esta es la pagina de estado de servicios en tiempo real para **NetaMx** "
   theme: "light"
   navbar:
-    - title: Production Services
-      href: https://status.ops.neta.mx/
+    - title: "Qa Status"
+      href: "/"
+    - title: "Service Status"
+      href: "https://status.ops.neta.mx/"
+    - title: "Dev Service Status"
+      href: "https://dev.status.ops.neta.mx/"
+  metaTags:
+    - name: "color-scheme"
+      content: "light"
+    - name: "robots"
+      content: "noindex"
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+
+user-agent: "adrianhorizon"
