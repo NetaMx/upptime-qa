@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "neta-mx-site",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.66%",
+    "uptimeDay": "77.03%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.66%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-13": 1
+      "2022-06-13": 331
     }
   },
   {
@@ -25,38 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mi-tienda",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.54%",
+    "uptimeDay": "77.03%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.54%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-13": 1
-    }
-  },
-  {
-    "name": "Data Analitycs",
-    "url": "$SECRET_SITE_REDASH",
-    "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "data-analitycs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-06-13": 1
+      "2022-06-13": 331
     }
   },
   {
@@ -65,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "autenticacion",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.54%",
+    "uptimeDay": "77.04%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.54%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-13": 0
+      "2022-06-13": 331
     }
   },
   {
@@ -85,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "facturacion",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.54%",
+    "uptimeDay": "77.04%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.54%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-13": 0
+      "2022-06-13": 331
     }
   },
   {
@@ -105,18 +85,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "entregas",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.54%",
+    "uptimeDay": "77.04%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.54%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-13": 0
+      "2022-06-13": 331
     }
   },
   {
@@ -125,18 +105,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ordenes",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.54%",
+    "uptimeDay": "77.05%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.54%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-13": 0
+      "2022-06-13": 331
     }
   },
   {
@@ -145,18 +125,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ordenes-v2",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.54%",
+    "uptimeDay": "77.05%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.54%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-13": 0
+      "2022-06-13": 331
     }
   },
   {
@@ -165,18 +145,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "gestion-de-tiendas",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.54%",
+    "uptimeDay": "77.05%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.54%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-13": 0
+      "2022-06-13": 330
     }
   },
   {
@@ -185,18 +165,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "core-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.54%",
+    "uptimeDay": "77.05%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.54%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-13": 0
+      "2022-06-13": 330
     }
   }
 ]
