@@ -1,7 +1,7 @@
 url: $SECRET_SITE_OPS_SECURITY
-status: up
-code: 200
-responseTime: 95
-lastUpdated: 2022-06-12T23:01:27.489Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2022-06-13T12:50:45.631Z
 startTime: Mon Apr 25 2022 04:16:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
