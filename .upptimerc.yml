@@ -129,6 +129,12 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
+  - name: "ops invoice"
+    url: $OPS_INVOICE
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+      - 403
 
 assignees:
   - "adrianhorizon"
