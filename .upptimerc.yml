@@ -20,12 +20,12 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
-  # - name: "Admin ops"
-  #   url: $ADMIN_OPS
-  #   maxResponseTime: 2000
-  #   expectedStatusCodes:
-  #     - 200
-  #     - 403
+  - name: "Admin ops"
+    url: $ADMIN_OPS
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+      - 403
   # - name: "neta argo"
   #   url: $NETA_ARGO
   #   __dangerous__insecure: true
