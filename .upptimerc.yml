@@ -135,6 +135,36 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
+  - name: "ops invoice v0"
+    url: $OPS_INVOICE_V0
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: "Store"
+    url: $STORE
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: "pdf generator"
+    url: $PDF_GENERATOR
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: "ops delivery"
+    url: $OPS_DELIVERY
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: "ops security"
+    url: $OPS_SECURITY
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+      - 403
 
 assignees:
   - "adrianhorizon"
