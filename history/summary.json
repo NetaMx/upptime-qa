@@ -6,7 +6,7 @@
     "slug": "neta-mx-site",
     "status": "up",
     "uptime": "96.98%",
-    "uptimeDay": "30.96%",
+    "uptimeDay": "30.97%",
     "uptimeWeek": "69.65%",
     "uptimeMonth": "93.02%",
     "uptimeYear": "96.98%",
@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-15": 967,
+      "2022-06-15": 968,
       "2022-06-14": 1440,
       "2022-06-13": 669
     }
@@ -60,7 +60,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-15": 961,
+      "2022-06-15": 962,
       "2022-06-14": 1440,
       "2022-06-13": 329
     }
