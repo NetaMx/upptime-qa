@@ -99,30 +99,30 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
-  # - name: "payments"
-  #   url: $PAYMENTS
-  #   maxResponseTime: 2000
-  #   expectedStatusCodes:
-  #     - 200
-  #     - 403
-  # - name: "challenge"
-  #   url: $CHALLENGE
-  #   maxResponseTime: 2000
-  #   expectedStatusCodes:
-  #     - 200
-  #     - 403
-  # - name: "rengoku"
-  #   url: $RENGOKU
-  #   maxResponseTime: 2000
-  #   expectedStatusCodes:
-  #     - 200
-  #     - 403
-  # - name: "ops store"
-  #   url: $OPS_STORE
-  #   maxResponseTime: 2000
-  #   expectedStatusCodes:
-  #     - 200
-  #     - 403
+  - name: "payments"
+    url: $PAYMENTS
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: "challenge"
+    url: $CHALLENGE
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: "rengoku"
+    url: $RENGOKU
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: "ops store"
+    url: $OPS_STORE
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+      - 403
 
 assignees:
   - "adrianhorizon"
