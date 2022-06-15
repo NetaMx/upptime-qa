@@ -6,15 +6,15 @@
     "slug": "neta-mx-site",
     "status": "up",
     "uptime": "96.98%",
-    "uptimeDay": "29.77%",
+    "uptimeDay": "30.10%",
     "uptimeWeek": "69.65%",
     "uptimeMonth": "93.02%",
     "uptimeYear": "96.98%",
-    "time": 289,
-    "timeDay": 289,
-    "timeWeek": 289,
-    "timeMonth": 289,
-    "timeYear": 289,
+    "time": 251,
+    "timeDay": 251,
+    "timeWeek": 251,
+    "timeMonth": 251,
+    "timeYear": 251,
     "dailyMinutesDown": {
       "2022-06-15": 950,
       "2022-06-14": 1440,
@@ -38,9 +38,31 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-15": 950,
+      "2022-06-15": 955,
       "2022-06-14": 1440,
       "2022-06-13": 669
+    }
+  },
+  {
+    "name": "Rutas Neta",
+    "url": "$SITE_ROUTES",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "rutas-neta",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-06-15": 949,
+      "2022-06-14": 1440,
+      "2022-06-13": 329
     }
   }
 ]
