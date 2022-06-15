@@ -6,7 +6,7 @@
     "slug": "neta-mx-site",
     "status": "up",
     "uptime": "96.98%",
-    "uptimeDay": "33.18%",
+    "uptimeDay": "33.19%",
     "uptimeWeek": "69.65%",
     "uptimeMonth": "93.02%",
     "uptimeYear": "96.98%",
@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-15": 999,
+      "2022-06-15": 1000,
       "2022-06-14": 1440,
       "2022-06-13": 669
     }
@@ -126,7 +126,7 @@
     "timeMonth": 281,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2022-06-15": 974,
+      "2022-06-15": 975,
       "2022-06-14": 1440,
       "2022-06-13": 329
     }
@@ -148,7 +148,7 @@
     "timeMonth": 52,
     "timeYear": 52,
     "dailyMinutesDown": {
-      "2022-06-15": 974,
+      "2022-06-15": 975,
       "2022-06-14": 1440,
       "2022-06-13": 329
     }
@@ -481,18 +481,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ops-invoice-v0",
     "status": "down",
-    "uptime": "4.98%",
-    "uptimeDay": "4.98%",
-    "uptimeWeek": "4.98%",
-    "uptimeMonth": "4.98%",
-    "uptimeYear": "4.98%",
+    "uptime": "3.67%",
+    "uptimeDay": "3.67%",
+    "uptimeWeek": "3.67%",
+    "uptimeMonth": "3.67%",
+    "uptimeYear": "3.67%",
     "time": 82,
     "timeDay": 82,
     "timeWeek": 82,
     "timeMonth": 82,
     "timeYear": 82,
     "dailyMinutesDown": {
-      "2022-06-15": 0
+      "2022-06-15": 1
     }
   },
   {
@@ -519,11 +519,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pdf-generator",
     "status": "down",
-    "uptime": "4.07%",
-    "uptimeDay": "4.07%",
-    "uptimeWeek": "4.07%",
-    "uptimeMonth": "4.07%",
-    "uptimeYear": "4.07%",
+    "uptime": "3.04%",
+    "uptimeDay": "3.04%",
+    "uptimeWeek": "3.04%",
+    "uptimeMonth": "3.04%",
+    "uptimeYear": "3.04%",
     "time": 56,
     "timeDay": 56,
     "timeWeek": 56,
