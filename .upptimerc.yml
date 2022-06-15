@@ -26,79 +26,79 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
-  # - name: "neta argo"
-  #   url: $NETA_ARGO
-  #   __dangerous__insecure: true
-  #   maxResponseTime: 2000
-  #   expectedStatusCodes:
-  #     - 200
-  #     - 403
-  # - name: "ops warehouse"
-  #   url: $OPS_WAREHOUSE
-  #   maxResponseTime: 2000
-  #   expectedStatusCodes:
-  #     - 200
-  #     - 403
-  # - name: "fraud detection"
-  #   url: $FRAUD_DETECTION
-  #   maxResponseTime: 2000
-  #   expectedStatusCodes:
-  #     - 200
-  #     - 403
-  # - name: "category"
-  #   url: $CATEGORY
-  #   maxResponseTime: 2000
-  #   expectedStatusCodes:
-  #     - 200
-  #     - 403
-  # - name: "notification"
-  #   url: $NOTIFICATION
-  #   maxResponseTime: 2000
-  #   expectedStatusCodes:
-  #     - 200
-  #     - 403
-  # - name: "core api"
-  #   url: $CORE_API
-  #   maxResponseTime: 2000
-  #   expectedStatusCodes:
-  #     - 200
-  #     - 403
-  # - name: "ordenes"
-  #   url: $ORDERS
-  #   maxResponseTime: 2000
-  #   expectedStatusCodes:
-  #     - 200
-  #     - 403
-  # - name: "discount"
-  #   url: $DISCOUNT
-  #   maxResponseTime: 2000
-  #   expectedStatusCodes:
-  #     - 200
-  #     - 403
-  # - name: "popup"
-  #   url: $POPUP
-  #   maxResponseTime: 2000
-  #   expectedStatusCodes:
-  #     - 200
-  #     - 403
-  # - name: "product"
-  #   url: $PRODUCT
-  #   maxResponseTime: 2000
-  #   expectedStatusCodes:
-  #     - 200
-  #     - 403
-  # - name: "promo"
-  #   url: $PROMO
-  #   maxResponseTime: 2000
-  #   expectedStatusCodes:
-  #     - 200
-  #     - 403
-  # - name: "security"
-  #   url: $SECURITY
-  #   maxResponseTime: 2000
-  #   expectedStatusCodes:
-  #     - 200
-  #     - 403
+  - name: "neta argo"
+    url: $NETA_ARGO
+    __dangerous__insecure: true
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: "ops warehouse"
+    url: $OPS_WAREHOUSE
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: "fraud detection"
+    url: $FRAUD_DETECTION
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: "category"
+    url: $CATEGORY
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: "notification"
+    url: $NOTIFICATION
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: "core api"
+    url: $CORE_API
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: "ordenes"
+    url: $ORDERS
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: "discount"
+    url: $DISCOUNT
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: "popup"
+    url: $POPUP
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: "product"
+    url: $PRODUCT
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: "promo"
+    url: $PROMO
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+      - 403
+  - name: "security"
+    url: $SECURITY
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+      - 403
   # - name: "payments"
   #   url: $PAYMENTS
   #   maxResponseTime: 2000
