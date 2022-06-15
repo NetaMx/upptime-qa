@@ -6,15 +6,15 @@
     "slug": "neta-mx-site",
     "status": "up",
     "uptime": "96.98%",
-    "uptimeDay": "30.11%",
+    "uptimeDay": "30.96%",
     "uptimeWeek": "69.65%",
     "uptimeMonth": "93.02%",
     "uptimeYear": "96.98%",
-    "time": 251,
-    "timeDay": 251,
-    "timeWeek": 251,
-    "timeMonth": 251,
-    "timeYear": 251,
+    "time": 314,
+    "timeDay": 314,
+    "timeWeek": 314,
+    "timeMonth": 314,
+    "timeYear": 314,
     "dailyMinutesDown": {
       "2022-06-15": 950,
       "2022-06-14": 1440,
@@ -38,7 +38,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-15": 955,
+      "2022-06-15": 967,
       "2022-06-14": 1440,
       "2022-06-13": 669
     }
@@ -59,6 +59,28 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-06-15": 961,
+      "2022-06-14": 1440,
+      "2022-06-13": 329
+    }
+  },
+  {
+    "name": "Admin ops",
+    "url": "$ADMIN_OPS",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "admin-ops",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 622,
+    "timeDay": 622,
+    "timeWeek": 622,
+    "timeMonth": 622,
+    "timeYear": 622,
     "dailyMinutesDown": {
       "2022-06-15": 949,
       "2022-06-14": 1440,
