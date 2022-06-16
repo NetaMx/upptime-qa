@@ -6,7 +6,7 @@
     "slug": "neta-mx-site",
     "status": "up",
     "uptime": "96.98%",
-    "uptimeDay": "33.67%",
+    "uptimeDay": "34.16%",
     "uptimeWeek": "69.65%",
     "uptimeMonth": "93.02%",
     "uptimeYear": "96.98%",
@@ -38,7 +38,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-15": 1006,
+      "2022-06-16": 2,
+      "2022-06-15": 1012,
       "2022-06-14": 1440,
       "2022-06-13": 669
     }
@@ -126,7 +127,8 @@
     "timeMonth": 305,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2022-06-15": 982,
+      "2022-06-16": 2,
+      "2022-06-15": 987,
       "2022-06-14": 1440,
       "2022-06-13": 329
     }
@@ -148,7 +150,8 @@
     "timeMonth": 57,
     "timeYear": 57,
     "dailyMinutesDown": {
-      "2022-06-15": 982,
+      "2022-06-16": 2,
+      "2022-06-15": 987,
       "2022-06-14": 1440,
       "2022-06-13": 329
     }
@@ -480,19 +483,20 @@
     "url": "$OPS_INVOICE_V0",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ops-invoice-v0",
-    "status": "down",
-    "uptime": "0.17%",
-    "uptimeDay": "0.17%",
-    "uptimeWeek": "0.17%",
-    "uptimeMonth": "0.17%",
-    "uptimeYear": "0.17%",
-    "time": 87,
-    "timeDay": 87,
-    "timeWeek": 87,
-    "timeMonth": 87,
-    "timeYear": 87,
+    "status": "up",
+    "uptime": "1.78%",
+    "uptimeDay": "1.78%",
+    "uptimeWeek": "1.78%",
+    "uptimeMonth": "1.78%",
+    "uptimeYear": "1.78%",
+    "time": 72,
+    "timeDay": 72,
+    "timeWeek": 72,
+    "timeMonth": 72,
+    "timeYear": 72,
     "dailyMinutesDown": {
-      "2022-06-15": 7
+      "2022-06-16": 1,
+      "2022-06-15": 13
     }
   },
   {
@@ -519,18 +523,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pdf-generator",
     "status": "down",
-    "uptime": "0.27%",
-    "uptimeDay": "0.27%",
-    "uptimeWeek": "0.27%",
-    "uptimeMonth": "0.27%",
-    "uptimeYear": "0.27%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 77,
     "timeDay": 77,
     "timeWeek": 77,
     "timeMonth": 77,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2022-06-15": 7
+      "2022-06-16": 2,
+      "2022-06-15": 13
     }
   },
   {
