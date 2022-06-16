@@ -28,7 +28,7 @@
     "slug": "mi-tienda",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "91.71%",
+    "uptimeDay": "92.06%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -51,7 +51,7 @@
     "slug": "rutas-neta",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "96.79%",
+    "uptimeDay": "96.92%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -127,7 +127,7 @@
     "timeMonth": 305,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2022-06-16": 984,
+      "2022-06-16": 1029,
       "2022-06-15": 987,
       "2022-06-14": 1440,
       "2022-06-13": 329
@@ -150,7 +150,7 @@
     "timeMonth": 57,
     "timeYear": 57,
     "dailyMinutesDown": {
-      "2022-06-16": 984,
+      "2022-06-16": 1029,
       "2022-06-15": 987,
       "2022-06-14": 1440,
       "2022-06-13": 329
@@ -483,19 +483,19 @@
     "url": "$OPS_INVOICE_V0",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ops-invoice-v0",
-    "status": "down",
-    "uptime": "42.37%",
-    "uptimeDay": "42.37%",
-    "uptimeWeek": "42.37%",
-    "uptimeMonth": "42.37%",
-    "uptimeYear": "42.37%",
-    "time": 68,
-    "timeDay": 68,
-    "timeWeek": 68,
-    "timeMonth": 68,
-    "timeYear": 68,
+    "status": "up",
+    "uptime": "40.55%",
+    "uptimeDay": "40.55%",
+    "uptimeWeek": "40.55%",
+    "uptimeMonth": "40.55%",
+    "uptimeYear": "40.55%",
+    "time": 67,
+    "timeDay": 67,
+    "timeWeek": 67,
+    "timeMonth": 67,
+    "timeYear": 67,
     "dailyMinutesDown": {
-      "2022-06-16": 575
+      "2022-06-16": 620
     }
   },
   {
@@ -533,7 +533,7 @@
     "timeMonth": 77,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2022-06-16": 984,
+      "2022-06-16": 1030,
       "2022-06-15": 13
     }
   },
