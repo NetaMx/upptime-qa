@@ -484,11 +484,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ops-invoice-v0",
     "status": "down",
-    "uptime": "44.82%",
-    "uptimeDay": "44.82%",
-    "uptimeWeek": "44.82%",
-    "uptimeMonth": "44.82%",
-    "uptimeYear": "44.82%",
+    "uptime": "44.81%",
+    "uptimeDay": "44.81%",
+    "uptimeWeek": "44.81%",
+    "uptimeMonth": "44.81%",
+    "uptimeYear": "44.81%",
     "time": 68,
     "timeDay": 68,
     "timeWeek": 68,
@@ -533,7 +533,7 @@
     "timeMonth": 71,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2022-06-16": 1133,
+      "2022-06-16": 1134,
       "2022-06-15": 13
     }
   },
