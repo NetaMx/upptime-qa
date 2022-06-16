@@ -6,7 +6,7 @@
     "slug": "neta-mx-site",
     "status": "up",
     "uptime": "97.01%",
-    "uptimeDay": "97.02%",
+    "uptimeDay": "99.49%",
     "uptimeWeek": "69.65%",
     "uptimeMonth": "93.02%",
     "uptimeYear": "97.01%",
@@ -28,7 +28,7 @@
     "slug": "mi-tienda",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "86.63%",
+    "uptimeDay": "90.64%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -51,7 +51,7 @@
     "slug": "rutas-neta",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "92.14%",
+    "uptimeDay": "95.97%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -73,7 +73,7 @@
     "slug": "admin-ops",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "95.56%",
+    "uptimeDay": "99.32%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -127,7 +127,7 @@
     "timeMonth": 305,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2022-06-16": 907,
+      "2022-06-16": 942,
       "2022-06-15": 987,
       "2022-06-14": 1440,
       "2022-06-13": 329
@@ -150,7 +150,7 @@
     "timeMonth": 57,
     "timeYear": 57,
     "dailyMinutesDown": {
-      "2022-06-16": 907,
+      "2022-06-16": 942,
       "2022-06-15": 987,
       "2022-06-14": 1440,
       "2022-06-13": 329
@@ -483,19 +483,19 @@
     "url": "$OPS_INVOICE_V0",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ops-invoice-v0",
-    "status": "down",
-    "uptime": "43.39%",
-    "uptimeDay": "43.39%",
-    "uptimeWeek": "43.39%",
-    "uptimeMonth": "43.39%",
-    "uptimeYear": "43.39%",
+    "status": "up",
+    "uptime": "41.79%",
+    "uptimeDay": "41.79%",
+    "uptimeWeek": "41.79%",
+    "uptimeMonth": "41.79%",
+    "uptimeYear": "41.79%",
     "time": 68,
     "timeDay": 68,
     "timeWeek": 68,
     "timeMonth": 68,
     "timeYear": 68,
     "dailyMinutesDown": {
-      "2022-06-16": 521
+      "2022-06-16": 557
     }
   },
   {
@@ -533,7 +533,7 @@
     "timeMonth": 77,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2022-06-16": 907,
+      "2022-06-16": 942,
       "2022-06-15": 13
     }
   },
