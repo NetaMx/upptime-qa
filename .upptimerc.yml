@@ -165,12 +165,15 @@ sites:
     expectedStatusCodes:
       - 200
       - 403
+  - name: "backoffice"
+    url: $BACKOFFICE
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+      - 403
 
 assignees:
   - "adrianhorizon"
-  - "fedeam"
-  - "PontiLeo"
-  - "orlando-barriel"
 
 status-website:
   cname: "qa.status.ops.neta.mx"
