@@ -11,7 +11,7 @@
     "uptimeMonth": "93.02%",
     "uptimeYear": "97.02%",
     "time": 330,
-    "timeDay": 319,
+    "timeDay": 343,
     "timeWeek": 330,
     "timeMonth": 330,
     "timeYear": 330,
@@ -28,7 +28,7 @@
     "slug": "mi-tienda",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "93.85%",
+    "uptimeDay": "94.14%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -51,7 +51,7 @@
     "slug": "rutas-neta",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "97.62%",
+    "uptimeDay": "97.67%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
@@ -127,7 +127,7 @@
     "timeMonth": 308,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2022-06-16": 1347,
+      "2022-06-16": 1380,
       "2022-06-15": 987,
       "2022-06-14": 1440,
       "2022-06-13": 329
@@ -150,7 +150,7 @@
     "timeMonth": 57,
     "timeYear": 57,
     "dailyMinutesDown": {
-      "2022-06-16": 1347,
+      "2022-06-16": 1380,
       "2022-06-15": 987,
       "2022-06-14": 1440,
       "2022-06-13": 329
@@ -483,19 +483,19 @@
     "url": "$OPS_INVOICE_V0",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ops-invoice-v0",
-    "status": "down",
-    "uptime": "47.64%",
-    "uptimeDay": "47.64%",
-    "uptimeWeek": "47.64%",
-    "uptimeMonth": "47.64%",
-    "uptimeYear": "47.64%",
-    "time": 67,
-    "timeDay": 67,
-    "timeWeek": 67,
-    "timeMonth": 67,
-    "timeYear": 67,
+    "status": "up",
+    "uptime": "46.50%",
+    "uptimeDay": "46.50%",
+    "uptimeWeek": "46.50%",
+    "uptimeMonth": "46.50%",
+    "uptimeYear": "46.50%",
+    "time": 68,
+    "timeDay": 68,
+    "timeWeek": 68,
+    "timeMonth": 68,
+    "timeYear": 68,
     "dailyMinutesDown": {
-      "2022-06-16": 712
+      "2022-06-16": 745
     }
   },
   {
@@ -533,7 +533,7 @@
     "timeMonth": 71,
     "timeYear": 71,
     "dailyMinutesDown": {
-      "2022-06-16": 1347,
+      "2022-06-16": 1381,
       "2022-06-15": 13
     }
   },
