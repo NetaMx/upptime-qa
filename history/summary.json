@@ -127,7 +127,7 @@
     "timeMonth": 294,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2022-06-17": 1012,
+      "2022-06-17": 1072,
       "2022-06-16": 1440,
       "2022-06-15": 987,
       "2022-06-14": 1440,
@@ -151,7 +151,7 @@
     "timeMonth": 55,
     "timeYear": 55,
     "dailyMinutesDown": {
-      "2022-06-17": 1012,
+      "2022-06-17": 1072,
       "2022-06-16": 1440,
       "2022-06-15": 987,
       "2022-06-14": 1440,
@@ -485,19 +485,19 @@
     "url": "$OPS_INVOICE_V0",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ops-invoice-v0",
-    "status": "down",
-    "uptime": "53.29%",
-    "uptimeDay": "61.88%",
-    "uptimeWeek": "53.29%",
-    "uptimeMonth": "53.29%",
-    "uptimeYear": "53.29%",
-    "time": 65,
-    "timeDay": 63,
-    "timeWeek": 65,
-    "timeMonth": 65,
-    "timeYear": 65,
+    "status": "up",
+    "uptime": "52.03%",
+    "uptimeDay": "58.92%",
+    "uptimeWeek": "52.03%",
+    "uptimeMonth": "52.03%",
+    "uptimeYear": "52.03%",
+    "time": 64,
+    "timeDay": 61,
+    "timeWeek": 64,
+    "timeMonth": 64,
+    "timeYear": 64,
     "dailyMinutesDown": {
-      "2022-06-17": 387,
+      "2022-06-17": 447,
       "2022-06-16": 763
     }
   },
@@ -536,7 +536,7 @@
     "timeMonth": 60,
     "timeYear": 60,
     "dailyMinutesDown": {
-      "2022-06-17": 1012,
+      "2022-06-17": 1072,
       "2022-06-16": 1440,
       "2022-06-15": 13
     }
