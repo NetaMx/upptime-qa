@@ -1,7 +1,7 @@
 url: $BACKOFFICE
-status: down
-code: 500
-responseTime: 376
-lastUpdated: 2022-06-23T20:45:41.857Z
+status: up
+code: 200
+responseTime: 251
+lastUpdated: 2022-06-23T20:53:38.186Z
 startTime: Thu Jun 16 2022 18:53:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
