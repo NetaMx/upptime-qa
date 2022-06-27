@@ -28,7 +28,6 @@ sites:
       - 403
   - name: "neta argo"
     url: $NETA_ARGO
-    __dangerous__insecure: true
     maxResponseTime: 2000
     expectedStatusCodes:
       - 200
@@ -180,17 +179,17 @@ status-website:
   logoUrl: "https://raw.githubusercontent.com/NetaMx/upptime-qa/master/assets/Neta.png"
   favicon: "https://raw.githubusercontent.com/NetaMx/upptime-qa/master/assets/Neta.png"
   name: ""
-  introTitle: "**NetaMx** Estado de Servicios Qa"
+  introTitle: "**NetaMx** Estado de Servicios QA"
   introMessage: "Esta es la pagina de estado de servicios en tiempo real para **NetaMx** "
   theme: "light"
   navbar:
-    - title: "Qa Status"
+    - title: "QA Status"
       href: "/"
-    - title: "Service Status"
+    - title: "PROD Service Status"
       href: "https://status.ops.neta.mx/"
-    - title: "Dev Service Status"
+    - title: "DEV Service Status"
       href: "https://dev.status.ops.neta.mx/"
-    - title: "Stage Service Status"
+    - title: "STAGE Service Status"
       href: "https://stage.status.ops.neta.mx/"
   metaTags:
     - name: "color-scheme"
