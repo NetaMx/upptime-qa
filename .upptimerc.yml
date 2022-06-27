@@ -29,6 +29,7 @@ sites:
   - name: "neta argo"
     url: $NETA_ARGO
     maxResponseTime: 2000
+    __dangerous__insecure: true
     expectedStatusCodes:
       - 200
       - 403
