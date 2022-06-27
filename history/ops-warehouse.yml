@@ -1,7 +1,7 @@
 url: $OPS_WAREHOUSE
 status: down
-code: 503
-responseTime: 733
-lastUpdated: 2022-06-26T23:04:00.489Z
+code: 404
+responseTime: 412
+lastUpdated: 2022-06-27T20:09:28.381Z
 startTime: Wed Jun 15 2022 23:22:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
