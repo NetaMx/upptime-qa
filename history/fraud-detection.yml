@@ -1,7 +1,7 @@
 url: $FRAUD_DETECTION
-status: down
-code: 503
-responseTime: 79
-lastUpdated: 2022-06-27T23:03:57.062Z
+status: up
+code: 200
+responseTime: 110
+lastUpdated: 2022-06-28T13:30:09.436Z
 startTime: Wed Jun 15 2022 23:22:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
