@@ -1,7 +1,7 @@
 url: $RENGOKU
-status: up
-code: 200
-responseTime: 26
-lastUpdated: 2022-07-03T23:04:08.561Z
+status: down
+code: 503
+responseTime: 60
+lastUpdated: 2022-07-04T13:48:03.502Z
 startTime: Wed Jun 15 2022 23:25:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
