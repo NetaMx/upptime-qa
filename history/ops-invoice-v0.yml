@@ -1,7 +1,7 @@
 url: $OPS_INVOICE_V0
-status: down
-code: 404
-responseTime: 60
-lastUpdated: 2022-07-08T17:40:37.468Z
+status: up
+code: 200
+responseTime: 45
+lastUpdated: 2022-07-08T18:09:00.902Z
 startTime: Wed Jun 15 2022 23:47:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
